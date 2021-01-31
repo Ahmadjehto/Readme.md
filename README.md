@@ -1,6 +1,5 @@
-### Hi there 👋 , I'm AHMAD JEHTO [emiraj7][website] 
+### Hi there 👋 , I'm AHMAD JEHTO 
 
-[Website][soon!!] 
 
 
 ## I'm a student, and Front-End-Web-Developer...
@@ -13,6 +12,9 @@
 
 [<img align="left" alt="emiraj7 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="emiraj7 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="emiraj7 | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+
 
 <br />
 
@@ -30,8 +32,6 @@
 <br />
 <br />
 
-
-[website]: https://emiraj7.com
 [instagram]: https://www.instagram.com/emir_aj7
 [linkedin]: https://www.linkedin.com/in/ahmet-jehto
 [facebook]: https://www.facebook.com/ahmad.jehto
