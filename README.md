@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm AHMAD JEHTO 
+<h1 align="center">Hi there 👋 , I'm AHMAD JEHTO</h1>
 
 <br />
 <br />
